@@ -1,0 +1,4 @@
+/Users/josephcraig/documents/test/CMakeFiles/nothing.dir
+/Users/josephcraig/documents/test/CMakeFiles/install.dir
+/Users/josephcraig/documents/test/CMakeFiles/ALL_BUILD.dir
+/Users/josephcraig/documents/test/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'install' in project 'nothing'
+➜ Explicit dependency on target 'ALL_BUILD' in project 'nothing'
+Target 'ALL_BUILD' in project 'nothing'
+➜ Explicit dependency on target 'nothing' in project 'nothing'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'nothing'
+Target 'nothing' in project 'nothing'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'nothing'
+Target 'ZERO_CHECK' in project 'nothing' (no dependencies)
